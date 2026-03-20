@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BearSMP-S1.aternos.me",
+    "ip": "huron.aternos.host",
     "port": 52166,
     "version": "",
     "try-creative": false
